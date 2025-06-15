@@ -6,7 +6,7 @@ This repository contains the lab assignments and practicals completed as part of
 
 ## 📚 List of Practicals 
 
-### 1. Basic Data Preprocessing
+### 1.Data Preprocessing
 **Aim**:  
 To download any dataset from UCI, Data.org, or other repositories and perform basic data preprocessing tasks using Python or R (handling missing values, encoding, normalization, etc.).
 
